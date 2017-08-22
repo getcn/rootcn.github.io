@@ -9,3 +9,4 @@ You can modify the language by translating tools, or make two changes to the sou
 July 30, 2017 update, click download<br>
 according to Rootcn.cn-blog  Updated content, <br>
 (shared Edition) Rootcn.cn-blog The source code contents modified <br>
+But the difference is, (shared version) rootcn.cn-blog Will be Remove multiple functions <br>
