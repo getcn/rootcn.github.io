@@ -10,3 +10,4 @@ July 30, 2017 update, <a href="http://www.gotcn.cn/ueditor/php/upload/file/20170
 according to Rootcn.cn-blog  Updated content, <br>
 (shared Edition) Rootcn.cn-blog The source code contents modified <br>
 But the difference is, (shared version) rootcn.cn-blog Will be Remove multiple functions <br>
+You can leave a message Use Report errors，<a href="https://github.com/getcn/rootcn-blog/issues/1" target="_blank">Click jump</a>
